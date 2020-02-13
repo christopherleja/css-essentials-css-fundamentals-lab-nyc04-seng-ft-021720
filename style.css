@@ -13,7 +13,7 @@ a {
   background-color: rgba(150, 170, 255, 25);
 }
 
-p #featured-property {
+#featured-property p {
   width: 800px;
   text-align: center;
 }
