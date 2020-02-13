@@ -8,6 +8,11 @@ h1 {
   text-align: center;
 }
 
+img {
+  display: block;
+  
+}
+
 a {
   padding-left: 10px;
   background-color: rgba(150, 170, 255, 25);
