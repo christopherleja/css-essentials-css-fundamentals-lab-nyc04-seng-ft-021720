@@ -10,7 +10,7 @@ h1 {
 
 a {
   padding-left: 10px;
-  background-color: rgb(150, 170, 255);
+  background-color: rgba(150, 170, 255, .25);
 }
 
 div {
