@@ -17,4 +17,6 @@ div {
   text-align: center;
   width: 25%;
   background-color: gray;
+  display: block;
+  float: left;
 }
