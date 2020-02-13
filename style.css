@@ -10,13 +10,13 @@ h1 {
 
 a {
   padding-left: 10px;
-  background-color: rgb(20, 180, 150);
+  background-color: rgb(150, 170, 255);
 }
 
 div {
   text-align: center;
   width: 25%;
-  background-color: rgb(150, 170, 255);
+  background-color: rgb(20, 180, 150);
   display: block;
   float: left;
 }
