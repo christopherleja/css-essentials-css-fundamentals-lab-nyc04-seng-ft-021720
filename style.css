@@ -8,6 +8,7 @@ h1 {
   text-align: center;
 }
 
-img {
-  text-align: center
+a {
+  padding-left: 10px;
+  background-color: gray;
 }
