@@ -16,7 +16,7 @@ a {
 div {
   text-align: center;
   width: 25%;
-  background-color: gray;
+  background-color: rgb(180, 20, 180);
   display: block;
   float: left;
 }
